@@ -14,6 +14,9 @@ d
 e
 f
 
+#add test
+test2
+
 # ディレクトリ構成
 ```
 seminar/
