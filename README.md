@@ -7,6 +7,10 @@ https://elmas3.github.io/mao-seminar/
 教授
 エル
 わかば
+a
+b
+c
+d
 
 # ディレクトリ構成
 ```
